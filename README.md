@@ -1,4 +1,4 @@
-## Hey! Nice to see you here.
+## Hey! Nice to see you here. welcome 
 I am Ankit Singh, a frontend dev who loves to create good interface. <br>
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
 
@@ -7,3 +7,7 @@ I am Ankit Singh, a frontend dev who loves to create good interface. <br>
 
 <!-- langage card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitzm&hide=html&theme=radical&layout=compact)
+
+### Happy coding !! <br>
+### Just for you I am pulling "something" from the "life" branch <br>
+``` git pull happpiness ```
