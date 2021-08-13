@@ -1,6 +1,6 @@
 ## Hey! Nice to see you here. 
 I am Ankit Singh, a frontend dev who loves community work. <br>
-1. 
+
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- github stats -->
