@@ -1,5 +1,6 @@
 ## Hey! Nice to see you here. 
-### I am Ankit Singh, a frontend dev who loves to create good interface. <br><br>
+I am Ankit Singh, a frontend dev who loves community work. <br>
+1. 
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- github stats -->
@@ -10,6 +11,6 @@
 
 <br>
 
-### Happy coding !! <br>
-### Just for you I am pulling "something" from the "life" branch <br>
-### ``` git pull happpiness ```
+Happy coding !! <br>
+Just for you I am pulling "something" from the"life" branch <br>
+``` git pull happpiness ```
