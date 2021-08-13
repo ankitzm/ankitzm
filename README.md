@@ -1,5 +1,5 @@
-## Hey! Nice to see you.
-I am Ankit Singh, 
+## Hey! Nice to see you here.
+I am Ankit Singh, a frontend dev who loves to create good interface. <br>
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- github stats -->
