@@ -1,5 +1,5 @@
 ## Hey! Nice to see you.
-I am Ankit Singh, learning 
+I am Ankit Singh, 
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- github stats -->
