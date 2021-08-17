@@ -1,5 +1,5 @@
 ## Hey! Nice to see you here. 
-I am Ankit Singh, a frontend dev who loves tech. <br>
+### I am Ankit Singh, a frontend dev who loves tech. <br>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitzm&theme=dracula)
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
