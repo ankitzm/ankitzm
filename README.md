@@ -5,7 +5,7 @@
 
 - 🔭 Currently learning - **user experince(ux), zero-knoledge, backend**
 
-- 📫 How to reach me - **contact@ankitsingh.tech**
+- 📫 How to reach me - https://twitter.com/ankitzm
 
 - 📄 Resume - [https://resume.ankitsingh.tech/](https://resume.ankitsingh.tech/)
 
