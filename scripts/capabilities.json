@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AI infrastructure & agents",
+    "desc": "Ingestion and retrieval pipelines, MCP servers, model routing backed by evals, and streaming agents.",
+    "proof": "Bytebell · Clarity · chat-agent-backend",
+    "tools": [["MCP", "si:modelcontextprotocol"], ["OpenRouter", "si:openrouter"], ["Neo4j", "si:neo4j"], ["Redis", "si:redis"], ["Claude", "si:claude"], ["DeepSeek", "si:deepseek"], ["Pinecone", null]]
+  },
+  {
+    "title": "Backend & data systems",
+    "desc": "APIs, queues and workers, relational and graph schemas, and time-series models, all measured before and after.",
+    "proof": "Router rewards (~1,200 DAU) · Palladium · Bytebell",
+    "tools": [["NestJS", "si:nestjs"], ["Node.js", "si:nodedotjs"], ["Hono", "si:hono"], ["Fastify", "si:fastify"], ["PostgreSQL", "si:postgresql"], ["MongoDB", "si:mongodb"], ["RabbitMQ", "si:rabbitmq"]]
+  },
+  {
+    "title": "Full-stack product",
+    "desc": "Complete web apps from interface to database: swap flows, dashboards, internal tools and PWAs.",
+    "proof": "Router Nitro swap · freelance clients · Impact AI Sessions",
+    "tools": [["Next.js", "si:nextdotjs"], ["React", "si:react"], ["Vue", "si:vuedotjs"], ["TypeScript", "si:typescript"], ["Tailwind CSS", "si:tailwindcss"], ["shadcn/ui", "si:shadcnui"], ["Supabase", "si:supabase"]]
+  },
+  {
+    "title": "Data pipelines & automation",
+    "desc": "Scrapers and ingestion jobs that run on a schedule, validate their own output and fail safe.",
+    "proof": "Spinneret · Palladium · Clarity",
+    "tools": [["GitHub Actions", "si:githubactions"], ["Puppeteer", "si:puppeteer"], ["Playwright", "dev:playwright/playwright-plain.svg"], ["Docker", "si:docker"], ["Neon", "si:neon"], ["Drizzle", "si:drizzle"], ["Vercel", "si:vercel"]]
+  },
+  {
+    "title": "Web3 & cross-chain",
+    "desc": "Bridges, wallet SDKs, smart contracts and on-chain payments across EVM, Solana, NEAR and more.",
+    "proof": "Router Nitro (30+ chains) · Tangled SDK (8 ecosystems) · Meme Duels",
+    "tools": [["Solidity", "si:solidity"], ["Ethereum", "si:ethereum"], ["Solana", "si:solana"], ["NEAR", "si:near"], ["Hardhat", "dev:hardhat/hardhat-plain.svg"], ["ethers.js", "si:ethers"], ["Chainlink", "si:chainlink"]]
+  },
+  {
+    "title": "Developer tools & DevRel",
+    "desc": "Browser and VS Code extensions, npm packages and CLIs, plus the docs and workshops that onboard developers.",
+    "proof": "safe-deploy · Terms Simplified · ScanLens · ThirdFi (1,000+ devs)",
+    "tools": [["Chrome Extensions", "si:googlechrome"], ["VS Code API", "dev:vscode/vscode-plain.svg"], ["npm", "si:npm"], ["Postman", "si:postman"], ["Swagger", "si:swagger"], ["GitBook", "si:gitbook"]]
+  }
+]

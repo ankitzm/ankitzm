@@ -1,0 +1,91 @@
+[
+  { "group": "Languages", "items": [
+    { "label": "TypeScript", "icon": "si:typescript" },
+    { "label": "JavaScript", "icon": "si:javascript" },
+    { "label": "Python", "icon": "si:python" },
+    { "label": "Rust", "icon": "si:rust" },
+    { "label": "Solidity", "icon": "si:solidity" },
+    { "label": "GraphQL", "icon": "si:graphql" },
+    { "label": "C++", "icon": "si:cplusplus" },
+    { "label": "HTML", "icon": "si:html5" },
+    { "label": "CSS", "icon": "si:css" }
+  ]},
+  { "group": "Frontend", "items": [
+    { "label": "React", "icon": "si:react" },
+    { "label": "Next.js", "icon": "si:nextdotjs" },
+    { "label": "Vue", "icon": "si:vuedotjs" },
+    { "label": "Vite", "icon": "si:vite" },
+    { "label": "Tailwind CSS", "icon": "si:tailwindcss" },
+    { "label": "shadcn/ui", "icon": "si:shadcnui" },
+    { "label": "Chakra UI", "icon": "si:chakraui" },
+    { "label": "TanStack", "icon": "si:tanstack" },
+    { "label": "Redux", "icon": "si:redux" },
+    { "label": "Zustand", "icon": null },
+    { "label": "Framer Motion", "icon": "dev:framermotion/framermotion-original.svg" },
+    { "label": "React Flow", "icon": null },
+    { "label": "PWA", "icon": "si:pwa" },
+    { "label": "Chrome Extensions", "icon": "si:googlechrome" },
+    { "label": "VS Code API", "icon": "dev:vscode/vscode-plain.svg" }
+  ]},
+  { "group": "Backend", "items": [
+    { "label": "Node.js", "icon": "si:nodedotjs" },
+    { "label": "Bun", "icon": "si:bun" },
+    { "label": "NestJS", "icon": "si:nestjs" },
+    { "label": "Express", "icon": "si:express" },
+    { "label": "Fastify", "icon": "si:fastify" },
+    { "label": "Hono", "icon": "si:hono" },
+    { "label": "Zod", "icon": "si:zod" },
+    { "label": "Swagger", "icon": "si:swagger" },
+    { "label": "BullMQ", "icon": null },
+    { "label": "RabbitMQ", "icon": "si:rabbitmq" },
+    { "label": "WebSockets", "icon": null },
+    { "label": "pnpm", "icon": "si:pnpm" }
+  ]},
+  { "group": "Data", "items": [
+    { "label": "PostgreSQL", "icon": "si:postgresql" },
+    { "label": "Neo4j", "icon": "si:neo4j" },
+    { "label": "MongoDB", "icon": "si:mongodb" },
+    { "label": "Redis", "icon": "si:redis" },
+    { "label": "Neon", "icon": "si:neon" },
+    { "label": "Drizzle", "icon": "si:drizzle" },
+    { "label": "Supabase", "icon": "si:supabase" },
+    { "label": "pgvector", "icon": null },
+    { "label": "Pinecone", "icon": null }
+  ]},
+  { "group": "AI", "items": [
+    { "label": "MCP", "icon": "si:modelcontextprotocol" },
+    { "label": "OpenRouter", "icon": "si:openrouter" },
+    { "label": "Claude", "icon": "si:claude" },
+    { "label": "DeepSeek", "icon": "si:deepseek" },
+    { "label": "Perplexity", "icon": "si:perplexity" }
+  ]},
+  { "group": "Infra & QA", "items": [
+    { "label": "Docker", "icon": "si:docker" },
+    { "label": "GitHub Actions", "icon": "si:githubactions" },
+    { "label": "Playwright", "icon": "dev:playwright/playwright-plain.svg" },
+    { "label": "Puppeteer", "icon": "si:puppeteer" },
+    { "label": "Vercel", "icon": "si:vercel" },
+    { "label": "Cloudflare", "icon": "si:cloudflare" },
+    { "label": "AWS", "icon": "dev:amazonwebservices/amazonwebservices-plain-wordmark.svg" },
+    { "label": "Google Cloud", "icon": "si:googlecloud" },
+    { "label": "Postman", "icon": "si:postman" },
+    { "label": "Git", "icon": "si:git" }
+  ]},
+  { "group": "Web3", "items": [
+    { "label": "Ethereum", "icon": "si:ethereum" },
+    { "label": "Solana", "icon": "si:solana" },
+    { "label": "Avalanche", "icon": null },
+    { "label": "NEAR", "icon": "si:near" },
+    { "label": "Sui", "icon": "si:sui" },
+    { "label": "Polygon", "icon": "si:polygon" },
+    { "label": "Algorand", "icon": "si:algorand" },
+    { "label": "Chainlink", "icon": "si:chainlink" },
+    { "label": "IPFS", "icon": "si:ipfs" },
+    { "label": "Hardhat", "icon": "dev:hardhat/hardhat-plain.svg" },
+    { "label": "ethers.js", "icon": "si:ethers" },
+    { "label": "web3.js", "icon": "si:web3dotjs" },
+    { "label": "wagmi", "icon": "si:wagmi" },
+    { "label": "thirdweb", "icon": "si:thirdweb" },
+    { "label": "WebAssembly", "icon": "si:webassembly" }
+  ]}
+]
